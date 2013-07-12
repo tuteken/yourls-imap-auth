@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: IMAP Authentication
+Plugin Name: YOURLS IMAP Authentication
 Plugin URI: http://github.com/tuteken/yourls-imap-auth
-Description: Add support for IMAP.
+Description: Add support for IMAP based authenication.
 Version: 1.0
 Author: tuteken
 Author URI: None
